@@ -32,9 +32,9 @@ const signifier = localFont({
       style: 'bold',
     },
     {
-      path: '../../public/fonts/adonis-cyrillic-font/adonis-cyrillic-font-bold-italic.zip',
+      path: '../../public/fonts/adonis-cyrillic-font/aldine-cyrillic-font.zip',
       weight: '700',
-      style: 'bold',
+      style: 'normal',
     },
   ],
   variable: '--font-signifier',
