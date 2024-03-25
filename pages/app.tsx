@@ -18,17 +18,17 @@ const signifier = localFont({
   src: [
     {
       path: '../../public/fonts/academy-cyrillic/academy-cyrillic-font.zip',
-      weight: '400',
+      weight: '300',
       style: 'normal',
     },
     {
       path: '../../public/fonts/academy-cyrillic/academy-cyrillic-font-italic.zip',
-      weight: '400',
+      weight: '500',
       style: 'italic',
     },
     {
       path: '../../public/fonts/adonis-cyrillic-font/adonis-cyrillic-font-bold.zip',
-      weight: '700',
+      weight: '650',
       style: 'bold',
     },
     {
