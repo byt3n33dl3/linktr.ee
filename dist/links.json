@@ -1,17 +1,52 @@
 [
     {
         "name": "GitHub",
-        "url": "https://github.com/yourusername",
+        "url": "https://github.com/username",
         "icon": "github-icon.png"
     },
     {
         "name": "LinkedIn",
-        "url": "https://www.linkedin.com/in/yourusername",
+        "url": "https://www.linkedin.com/in/username",
         "icon": "linkedin-icon.png"
     },
     {
         "name": "Twitter",
-        "url": "https://twitter.com/yourusername",
+        "url": "https://twitter.com/username",
         "icon": "twitter-icon.png"
+    },
+    {
+        "name": "Youtube",
+        "url": "https://YT.com/username",
+        "icon": "YT-icon.png"
+    },
+    {
+        "name": "Behance",
+        "url": "https://www.Behance.com/in/username",
+        "icon": "Behance-icon.png"
+    },
+    {
+        "name": "Reddit",
+        "url": "https://Reddit.com/username",
+        "icon": "Reddit-icon.png"
+    },
+    {
+        "name": "Dribbble",
+        "url": "https://Dribbble.com/username",
+        "icon": "Dribbble-icon.png"
+    },
+    {
+        "name": "TikTok",
+        "url": "https://Tiktok.com/in/username",
+        "icon": "Tiktok-icon.png"
+    },
+    {
+        "name": "Threads",
+        "url": "https://Threads.com/username",
+        "icon": "Threads-icon.png"
+    },
+    {
+        "name": "Gmail",
+        "url": "https://Gmail.com/username",
+        "icon": "Gmail-icon.png"
     }
 ]
