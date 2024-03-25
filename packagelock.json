@@ -1,12 +1,12 @@
 {
     "name": "Sulaiman Abdul Aziz",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "lockfileVersion": 3,
     "requires": true,
     "packages": {
       "": {
         "name": "Sulaiman Abdul Aziz",
-        "version": "0.1.0",
+        "version": "0.1.2",
         "dependencies": {
           "@types/needle": "^3.2.0",
           "@types/node": "18.16.1",
