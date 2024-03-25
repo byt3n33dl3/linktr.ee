@@ -50,7 +50,7 @@ export const getUserTweets = async () => {
   // }
 
   // console.dir(userTweets, {
-  //   depth: null,
+  //   depth: false,
   // });
   console.log(
     `Got ${userTweets.length} Tweets from ${userName} (user ID ${userId})!`
