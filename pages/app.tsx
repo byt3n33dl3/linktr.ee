@@ -17,24 +17,24 @@ const schibsted = Schibsted_Grotesk({
 const signifier = localFont({
   src: [
     {
-      path: '../../public/fonts/Test-Signifier/test-signifier-regular.woff2',
+      path: '../../public/fonts/academy-cyrillic/academy-cyrillic-font.zip',
       weight: '400',
       style: 'normal',
     },
     {
-      path: '../../public/fonts/Test-Signifier/test-signifier-regular-italic.woff2',
+      path: '../../public/fonts/academy-cyrillic/academy-cyrillic-font-italic.zip',
       weight: '400',
       style: 'italic',
     },
     {
-      path: '../../public/fonts/Test-Signifier/test-signifier-bold.woff2',
+      path: '../../public/fonts/adonis-cyrillic-font/adonis-cyrillic-font-bold.zip',
       weight: '700',
-      style: 'normal',
+      style: 'bold',
     },
     {
-      path: '../../public/fonts/Test-Signifier/test-signifier-bold-italic.woff2',
+      path: '../../public/fonts/adonis-cyrillic-font/adonis-cyrillic-font-bold-italic.zip',
       weight: '700',
-      style: 'italic',
+      style: 'bold',
     },
   ],
   variable: '--font-signifier',
