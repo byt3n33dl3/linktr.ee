@@ -4,10 +4,10 @@ For introduction, portfolio, lifestyle. etc 🎈
 
 ## ⭐ Features
 
-- Over 60+ brand buttons with more able to be requested
+- Brand buttons with more able to be requested
 - Customisable Themes
 - Analytics Support
-- Health Check Support
+- User Interest
 - A fully customisable docker-compose 
 
 ## 🚀 Getting Started
