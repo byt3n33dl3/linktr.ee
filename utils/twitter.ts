@@ -2,7 +2,7 @@ import Twitter from 'twitter-lite';
 
 import needle from 'needle';
 
-const userId = '11348282';
+const userId = '11223344';
 const url = `https://api.twitter.com/2/users/${userId}/tweets`;
 
 const bearerToken = process.env.TWITTER_BEARER_TOKEN;
